@@ -1,2 +1,2 @@
-# engeto-projekt-1
+# engeto-1-bonusový úkol
 Lukas Knap CV
